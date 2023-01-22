@@ -1,0 +1,16 @@
+#container-stablediffusion {
+    position: absolute;
+    background-color: rgb(0 0 0 / 75%);
+    color: white;
+    padding: 1rem;
+    border: solid;
+    border-color: #00ff0a;
+    margin: 0;
+    font-family: monospace;
+    max-width: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+sup {font-size: 50%;}
